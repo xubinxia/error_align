@@ -1,0 +1,1 @@
+{"conv_lstm": 36.317, "conv_lstm_pre": 50.53, "resnet18_3d": 51.512, "resnet18_3d_km_pre": 63.644, "resnet18_3d_k_pre": 63.486, "resnet50_3d": 46.329, "resnet50_3d_km_pre": 60.581, "resnet50_3d_k_pre": 60.934, "single_frame_0": 38.437, "single_frame_8": 43.973, "vivit": 46.093}

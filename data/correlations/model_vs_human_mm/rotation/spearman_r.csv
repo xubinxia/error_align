@@ -1,0 +1,7 @@
+,Error Consistency,Misclassification Agreement,Class-Level Similarity,CKA,Smilarity of Confidence,Similarity of Confidence (Errors Only)
+Error Consistency,1.0,0.4243,0.9039,0.7568,0.6087,0.5509
+Misclassification Agreement,0.4243,1.0,0.5628,0.6221,0.7464,0.7956
+Class-Level Similarity,0.9039,0.5628,1.0,0.7577,0.6807,0.6754
+CKA,0.7568,0.6221,0.7577,1.0,0.8017,0.7617
+Smilarity of Confidence,0.6087,0.7464,0.6807,0.8017,1.0,0.8317
+Similarity of Confidence (Errors Only),0.5509,0.7956,0.6754,0.7617,0.8317,1.0

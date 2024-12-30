@@ -1,0 +1,4 @@
+,Error Consistency,Misclassification Agreement,Class-Level Similarity
+Error Consistency,1.0,0.3906,0.6946
+Misclassification Agreement,0.3906,1.0,0.6998
+Class-Level Similarity,0.6946,0.6998,1.0
